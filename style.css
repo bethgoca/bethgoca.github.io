@@ -1,0 +1,30 @@
+body{
+    background-color:pink; /*Color del fondo*/
+    color:blue; /*Color de la letra*/
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+p{
+    color:green;
+}
+
+h1{
+    color:brown;
+}
+
+/*Para agregar clase,ponemos un punto antes del nombre*/
+.titulo-web{
+    color:deeppink;
+    font-family: 'Parisienne', cursive;
+}
+
+img{
+    width:300px; /*ancho*/
+    height:300px;
+}
+
+.gato-intelectual{
+    width: 500px;
+    height: 500px;
+}
